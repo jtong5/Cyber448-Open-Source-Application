@@ -3,8 +3,10 @@
 # Press Shift+F6 to execute it or replace it with your code.
 """
 import phoneScan
+import FileScan
 import sys
 phoneScan.get_phone_number()
+FileScan.get_file_scan()
 
 """
 # Below are code for the GUI
