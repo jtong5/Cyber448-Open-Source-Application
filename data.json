@@ -28,5 +28,19 @@
         "options": {},
         "url": "https://eloquentjavascript.net/",
         "country": "nl"
+    },
+    {
+        "status": "success",
+        "phone": "+17737179978",
+        "phone_valid": true,
+        "phone_type": "mobile",
+        "phone_region": "Chicago, IL",
+        "country": "United States",
+        "country_code": "US",
+        "country_prefix": "1",
+        "international_number": "+1 773-717-9978",
+        "local_number": "(773) 717-9978",
+        "e164": "+17737179978",
+        "carrier": "Verizon"
     }
 ]
