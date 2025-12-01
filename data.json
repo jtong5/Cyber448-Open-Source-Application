@@ -1,198 +1,1520 @@
-[
-    {
-        "message": "Submission successful",
-        "uuid": "019aa41c-d1a4-702f-ab9f-f436a729694c",
-        "result": "https://urlscan.io/result/019aa41c-d1a4-702f-ab9f-f436a729694c/",
-        "api": "https://urlscan.io/api/v1/result/019aa41c-d1a4-702f-ab9f-f436a729694c/",
-        "visibility": "public",
-        "options": {},
-        "url": "https://eloquentjavascript.net/",
-        "country": "nl"
-    },
-    {
-        "message": "Submission successful",
-        "uuid": "019aa41d-ce8c-75fb-ba81-7375ce73611a",
-        "result": "https://urlscan.io/result/019aa41d-ce8c-75fb-ba81-7375ce73611a/",
-        "api": "https://urlscan.io/api/v1/result/019aa41d-ce8c-75fb-ba81-7375ce73611a/",
-        "visibility": "public",
-        "options": {},
-        "url": "https://eloquentjavascript.net/",
-        "country": "nl"
-    },
-    {
-        "message": "Submission successful",
-        "uuid": "019aa41e-a95b-7516-98cd-bb15701f525d",
-        "result": "https://urlscan.io/result/019aa41e-a95b-7516-98cd-bb15701f525d/",
-        "api": "https://urlscan.io/api/v1/result/019aa41e-a95b-7516-98cd-bb15701f525d/",
-        "visibility": "public",
-        "options": {},
-        "url": "https://eloquentjavascript.net/",
-        "country": "nl"
-    },
-    {
-        "error": 400
-    },
-    {
-        "message": "Submission successful",
-        "uuid": "019ab7c9-394c-712e-9350-c0627cdbbb96",
-        "result": "https://urlscan.io/result/019ab7c9-394c-712e-9350-c0627cdbbb96/",
-        "api": "https://urlscan.io/api/v1/result/019ab7c9-394c-712e-9350-c0627cdbbb96/",
-        "visibility": "public",
-        "options": {},
-        "url": "http://google.com/"
-    },
-    {
-        "status": "success",
-        "phone": "+18009256278",
-        "phone_valid": false,
-        "phone_type": "toll_free",
-        "phone_region": "",
-        "country": "United States",
-        "country_code": "US",
-        "country_prefix": "1",
-        "international_number": "+1 800-925-6278",
-        "local_number": "(800) 925-6278",
-        "e164": "+18009256278",
-        "carrier": ""
-    },
-    {
-        "status": "success",
-        "phone": "+18004400680",
-        "phone_valid": false,
-        "phone_type": "toll_free",
-        "phone_region": "",
-        "country": "United States",
-        "country_code": "US",
-        "country_prefix": "1",
-        "international_number": "+1 800-440-0680",
-        "local_number": "(800) 440-0680",
-        "e164": "+18004400680",
-        "carrier": ""
-    },
-    {
-        "status": "success",
-        "phone": "+18004400680",
-        "phone_valid": false,
-        "phone_type": "toll_free",
-        "phone_region": "",
-        "country": "United States",
-        "country_code": "US",
-        "country_prefix": "1",
-        "international_number": "+1 800-440-0680",
-        "local_number": "(800) 440-0680",
-        "e164": "+18004400680",
-        "carrier": ""
-    },
-    {
-        "status": "success",
-        "phone": "+18004400680",
-        "phone_valid": false,
-        "phone_type": "toll_free",
-        "phone_region": "",
-        "country": "United States",
-        "country_code": "US",
-        "country_prefix": "1",
-        "international_number": "+1 800-440-0680",
-        "local_number": "(800) 440-0680",
-        "e164": "+18004400680",
-        "carrier": ""
-    },
-    {
-        "status": "success",
-        "phone": "+18004400680",
-        "phone_valid": false,
-        "phone_type": "toll_free",
-        "phone_region": "",
-        "country": "United States",
-        "country_code": "US",
-        "country_prefix": "1",
-        "international_number": "+1 800-440-0680",
-        "local_number": "(800) 440-0680",
-        "e164": "+18004400680",
-        "carrier": ""
-    },
-    {
-        "status": "success",
-        "phone": "+18882804331",
-        "phone_valid": false,
-        "phone_type": "toll_free",
-        "phone_region": "",
-        "country": "United States",
-        "country_code": "US",
-        "country_prefix": "1",
-        "international_number": "+1 888-280-4331",
-        "local_number": "(888) 280-4331",
-        "e164": "+18882804331",
-        "carrier": ""
-    },
-    {
-        "status": "success",
-        "phone": "+18668462273",
-        "phone_valid": false,
-        "phone_type": "toll_free",
-        "phone_region": "",
-        "country": "United States",
-        "country_code": "US",
-        "country_prefix": "1",
-        "international_number": "+1 866-846-2273",
-        "local_number": "(866) 846-2273",
-        "e164": "+18668462273",
-        "carrier": ""
-    },
-    {
-        "status": "success",
-        "phone": "+18668462273",
-        "phone_valid": false,
-        "phone_type": "toll_free",
-        "phone_region": "",
-        "country": "United States",
-        "country_code": "US",
-        "country_prefix": "1",
-        "international_number": "+1 866-846-2273",
-        "local_number": "(866) 846-2273",
-        "e164": "+18668462273",
-        "carrier": ""
-    },
-    {
-        "status": "success",
-        "phone": "1-866-TIMCARD",
-        "phone_valid": false,
-        "phone_type": "unknown",
-        "phone_region": "",
-        "country": "",
-        "country_code": "",
-        "country_prefix": "0",
-        "international_number": "+1 1866",
-        "local_number": "1866",
-        "e164": "+11866",
-        "carrier": ""
-    },
-    {
-        "status": "success",
-        "phone": "+18886011616",
-        "phone_valid": false,
-        "phone_type": "toll_free",
-        "phone_region": "",
-        "country": "United States",
-        "country_code": "US",
-        "country_prefix": "1",
-        "international_number": "+1 888-601-1616",
-        "local_number": "(888) 601-1616",
-        "e164": "+18886011616",
-        "carrier": ""
-    },
-    {
-        "status": "success",
-        "phone": "+13125675963",
-        "phone_valid": true,
-        "phone_type": "fixed_line",
-        "phone_region": "Chicago, IL",
-        "country": "United States",
-        "country_code": "US",
-        "country_prefix": "1",
-        "international_number": "+1 312-567-5963",
-        "local_number": "(312) 567-5963",
-        "e164": "+13125675963",
-        "carrier": "AT&T"
+{
+    "search_term": "",
+    "chosen_project_id": "467",
+    "project": {
+        "id": 467,
+        "title": "Inji",
+        "type": "DID Project",
+        "website": "https://docs.inji.io/",
+        "status": "Launched",
+        "launch_date": "2023",
+        "launch_date_source": "https://archive.md/Pvy9Z",
+        "announcement_date": "2022",
+        "announcement_date_source": "https://archive.md/9Pf2g",
+        "mission_statement": "Enabling the secure issuance, digitalization, storage, exchange and seamless verification of trusted data as verifiable credentials, through a comprehensive set of tools.",
+        "mission_statement_source": "https://archive.md/Z4t92",
+        "tech_stack_description": "Inji provides a comprehensive solution that ensures all credential interactions - from issuance to verification - are secure, efficient, and aligned with global standards. This fosters high levels of trust at a low cost, supporting the development of a trusted digital economy. By bridging the gap between traditional and digital systems, Inji establishes a foundation for inclusive, secure, and transparent frameworks, paving the way for a more accessible and digital future for all, thereby ensuring widespread access to essential services.",
+        "tech_stack_description_source": "https://archive.md/Z4t92",
+        "targets_holders_or_users": true,
+        "targets_holders_or_users_source": "https://archive.md/Z4t92",
+        "targets_issuers": true,
+        "targets_issuers_source": "https://archive.md/Z4t92",
+        "targets_verifiers": true,
+        "targets_verifiers_source": "https://archive.md/Z4t92",
+        "uses_ssi": true,
+        "uses_ssi_source": "https://archive.md/r4g6y",
+        "uses_or_endorses_zkp": true,
+        "uses_or_endorses_zkp_source": "https://web.archive.org/web/20240306055235/https://mosip.io/mosip_project",
+        "has_exportable_credentials": true,
+        "has_exportable_credentials_source": "https://archive.md/kKCRI",
+        "has_key_storage": null,
+        "has_key_storage_source": null,
+        "products": [
+            {
+                "id": 340,
+                "title": "Inji Verify",
+                "source": "https://archive.md/Z4t92"
+            },
+            {
+                "id": 425,
+                "title": "Inji Infra",
+                "source": "https://archive.md/Z4t92"
+            },
+            {
+                "id": 426,
+                "title": "Inji Govern",
+                "source": "https://archive.md/Z4t92"
+            },
+            {
+                "id": 342,
+                "title": "Inji Certify",
+                "source": "https://archive.md/Z4t92"
+            },
+            {
+                "id": 335,
+                "title": "Inji Wallet",
+                "source": "https://archive.md/Z4t92"
+            },
+            {
+                "id": 334,
+                "title": "e-Signet",
+                "source": "https://archive.md/Z4t92"
+            }
+        ],
+        "links": [],
+        "country": {
+            "id": 80,
+            "name": "India",
+            "code": "IN"
+        },
+        "region": "South Asia",
+        "geographic_focus": [
+            {
+                "country": {
+                    "id": 188,
+                    "name": "Trinidad and Tobago",
+                    "code": "TT"
+                },
+                "source": "https://archive.ph/34Pf2"
+            }
+        ],
+        "regulations": [],
+        "persons_of_interest": [
+            {
+                "person": {
+                    "id": 3473,
+                    "name": "Pragya Kumari"
+                },
+                "role": "Product Owner",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3470,
+                    "name": "Mahek Sarkar"
+                },
+                "role": "Associate (Communications)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3457,
+                    "name": "Tarun Cherian"
+                },
+                "role": "Head (Design)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 4760,
+                    "name": "Nambirajan R"
+                },
+                "role": "Head (Deployment Engineering)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3451,
+                    "name": "Rohit Ranjan Rai"
+                },
+                "role": "Senior Associate (Policy and Outreach)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3455,
+                    "name": "Ahlam Safa"
+                },
+                "role": "Account Manager (LATAM)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3499,
+                    "name": "Dame Wendy Hall"
+                },
+                "role": "Member (International Advisory Group)",
+                "on_behalf_of": {
+                    "id": 7370,
+                    "name": "Web Science Trust"
+                },
+                "source": "https://archive.ph/LiO0x#60%"
+            },
+            {
+                "person": {
+                    "id": 3491,
+                    "name": "Chandrasekhar Ramanathan"
+                },
+                "role": "Member (Technology Committee)",
+                "on_behalf_of": {
+                    "id": 106,
+                    "name": "International Institute of Information Technology Bangalore"
+                },
+                "source": "https://archive.ph/LiO0x#37.5%"
+            },
+            {
+                "person": {
+                    "id": 3458,
+                    "name": "Preeti Hongal"
+                },
+                "role": "PMO",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 4764,
+                    "name": "Rachik Raj Sharma"
+                },
+                "role": "Product Owner",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3488,
+                    "name": "Anirudh Menon"
+                },
+                "role": "Member (Executive Committee)",
+                "on_behalf_of": {
+                    "id": 108,
+                    "name": "Sir Ratan Tata Trust"
+                },
+                "source": "https://archive.ph/LiO0x"
+            },
+            {
+                "person": {
+                    "id": 3471,
+                    "name": "Srija Gadamsetti"
+                },
+                "role": "Associate (Strategy and Policy)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3484,
+                    "name": "Himanshu Nagpal"
+                },
+                "role": "Member (Executive Committee)",
+                "on_behalf_of": {
+                    "id": 472,
+                    "name": "Bill & Melinda Gates Foundation"
+                },
+                "source": "https://archive.ph/LiO0x"
+            },
+            {
+                "person": {
+                    "id": 3493,
+                    "name": "Sanjiva Weerawarana"
+                },
+                "role": "Member (Technology Committee)",
+                "on_behalf_of": {
+                    "id": 7368,
+                    "name": "WSO2 LLC"
+                },
+                "source": "https://archive.ph/LiO0x#37.5%"
+            },
+            {
+                "person": {
+                    "id": 3440,
+                    "name": "Arun Kumar Gurumurthy"
+                },
+                "role": "Chief Strategy Officer",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3492,
+                    "name": "Adam Cooper"
+                },
+                "role": "Member (Technology Committee)",
+                "on_behalf_of": {
+                    "id": 7130,
+                    "name": "Identity2020 Systems, Inc."
+                },
+                "source": "https://archive.ph/LiO0x#37.5%"
+            },
+            {
+                "person": {
+                    "id": 3486,
+                    "name": "Kanwaljit Singh"
+                },
+                "role": "Member (Executive Committee)",
+                "on_behalf_of": {
+                    "id": 472,
+                    "name": "Bill & Melinda Gates Foundation"
+                },
+                "source": "https://archive.ph/LiO0x"
+            },
+            {
+                "person": {
+                    "id": 3504,
+                    "name": "Jean Philbert Nsengimana"
+                },
+                "role": "Member (International Advisory Group)",
+                "on_behalf_of": {
+                    "id": 7375,
+                    "name": "Smart Africa"
+                },
+                "source": "https://archive.ph/LiO0x#60%"
+            },
+            {
+                "person": {
+                    "id": 3476,
+                    "name": "Hemant C Vadher"
+                },
+                "role": "PMO",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3494,
+                    "name": "Kristina Yasuda"
+                },
+                "role": "Member (Technology Committee)",
+                "on_behalf_of": {
+                    "id": 5652,
+                    "name": "Bundesagentur f\u00fcr Sprunginnovationen GmbH"
+                },
+                "source": "https://archive.ph/LiO0x#37.5%"
+            },
+            {
+                "person": {
+                    "id": 3442,
+                    "name": "Srijoni Sen"
+                },
+                "role": "Advisor (Legal and Policy)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3463,
+                    "name": "Swarathmika Kumar"
+                },
+                "role": "Associate (Legal and Policy)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3438,
+                    "name": "Ramesh Narayanan"
+                },
+                "role": "Chief Technology Officer",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3445,
+                    "name": "Krishnan Rajagopalan"
+                },
+                "role": "Head (Country Implementations)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3467,
+                    "name": "Muralitharan K"
+                },
+                "role": "Technical Project Lead",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3444,
+                    "name": "Meghna Das"
+                },
+                "role": "Head (Communications)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3498,
+                    "name": "Carolina Trivelli"
+                },
+                "role": "Member (International Advisory Group)",
+                "on_behalf_of": {
+                    "id": 7369,
+                    "name": "Institute of Peruvian Studies"
+                },
+                "source": "https://archive.ph/LiO0x#60%"
+            },
+            {
+                "person": {
+                    "id": 3439,
+                    "name": "Nagarajan Santhanam"
+                },
+                "role": "Chief Dissemination Officer",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3502,
+                    "name": "Tomicah Tillemann"
+                },
+                "role": "Member (International Advisory Group)",
+                "on_behalf_of": {
+                    "id": 7373,
+                    "name": "Blockchain Trust Accelerator"
+                },
+                "source": "https://archive.ph/LiO0x#60%"
+            },
+            {
+                "person": {
+                    "id": 3500,
+                    "name": "Alan Gelb"
+                },
+                "role": "Member (International Advisory Group)",
+                "on_behalf_of": {
+                    "id": 7371,
+                    "name": "Centre for Global Development"
+                },
+                "source": "https://archive.ph/LiO0x#60%"
+            },
+            {
+                "person": {
+                    "id": 4762,
+                    "name": "Aravindhan A"
+                },
+                "role": "Lead (UI Development)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 76,
+                    "name": "Santhanagopalan Rajagopalan"
+                },
+                "role": "Member (Executive Committee)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/LiO0x"
+            },
+            {
+                "person": {
+                    "id": 3448,
+                    "name": "Gabi Adotevi"
+                },
+                "role": "Head (West Africa)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3497,
+                    "name": "Andrew Hopkins"
+                },
+                "role": "Member (International Advisory Group)",
+                "on_behalf_of": {
+                    "id": 832,
+                    "name": "United Nations High Commissioner for Refugees"
+                },
+                "source": "https://archive.ph/LiO0x#60%"
+            },
+            {
+                "person": {
+                    "id": 4763,
+                    "name": "Ashok Kumar"
+                },
+                "role": "Technical Architect",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3449,
+                    "name": "Rose Ann Zuniga"
+                },
+                "role": "Account Manager (Asia Pacific)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3496,
+                    "name": "Sanjay Jain"
+                },
+                "role": "Founding Chair (Technology Committee)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/LiO0x#37.5%"
+            },
+            {
+                "person": {
+                    "id": 3461,
+                    "name": "Loganathan Sekar"
+                },
+                "role": "Technical Architect",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 133,
+                    "name": "Satish Mohan"
+                },
+                "role": "Chair (Technology Committee)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/LiO0x#37.5%"
+            },
+            {
+                "person": {
+                    "id": 3485,
+                    "name": "Sharad Sharma"
+                },
+                "role": "Member (Executive Committee)",
+                "on_behalf_of": {
+                    "id": 7366,
+                    "name": "Indian Software Product Industry Round Table"
+                },
+                "source": "https://archive.ph/LiO0x"
+            },
+            {
+                "person": {
+                    "id": 3495,
+                    "name": "Balasubramanian Thangaraju"
+                },
+                "role": "Member (Technology Committee)",
+                "on_behalf_of": {
+                    "id": 106,
+                    "name": "International Institute of Information Technology Bangalore"
+                },
+                "source": "https://archive.ph/LiO0x#37.5%"
+            },
+            {
+                "person": {
+                    "id": 3480,
+                    "name": "Swati Goel"
+                },
+                "role": "Technical Lead",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3505,
+                    "name": "Tony Wasserman"
+                },
+                "role": "Member (International Advisory Group)",
+                "on_behalf_of": {
+                    "id": 7376,
+                    "name": "Carnegie Mellon University"
+                },
+                "source": "https://archive.ph/LiO0x#60%"
+            },
+            {
+                "person": {
+                    "id": 3474,
+                    "name": "Hitesh C"
+                },
+                "role": "Technical Lead",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3487,
+                    "name": "Sanjay Anandram"
+                },
+                "role": "Member (Executive Committee)",
+                "on_behalf_of": {
+                    "id": 7366,
+                    "name": "Indian Software Product Industry Round Table"
+                },
+                "source": "https://archive.ph/LiO0x"
+            },
+            {
+                "person": {
+                    "id": 3468,
+                    "name": "Anushka Sachan"
+                },
+                "role": "Consultant (Legal Associate)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3459,
+                    "name": "Janardhan BS"
+                },
+                "role": "Biometrics Architect",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3447,
+                    "name": "Sanathkumar Varambally"
+                },
+                "role": "Head (MOSIP Academy)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3454,
+                    "name": "Carine Ayivi Fandalor"
+                },
+                "role": "Project Manager",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3450,
+                    "name": "Sivanand Lanka"
+                },
+                "role": "Vice President (Engineering)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3462,
+                    "name": "Sanchi Singh"
+                },
+                "role": "Product Owner",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3441,
+                    "name": "Sasikumar Ganesan"
+                },
+                "role": "Head (Engineering)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3466,
+                    "name": "Chandra Keshav Mishra"
+                },
+                "role": "Architect (DevOps)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3464,
+                    "name": "Reeba Thomas"
+                },
+                "role": "Associate Vice President",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3489,
+                    "name": "Per J\u00f8rgen Walstrom"
+                },
+                "role": "Member (Executive Committee)",
+                "on_behalf_of": {
+                    "id": 232,
+                    "name": "North American Aerospace Defense Command "
+                },
+                "source": "https://archive.ph/LiO0x"
+            },
+            {
+                "person": {
+                    "id": 3483,
+                    "name": "Govind Shivkumar"
+                },
+                "role": "Member (Executive Committee)",
+                "on_behalf_of": {
+                    "id": 110,
+                    "name": "Omidyar Network Services LLC"
+                },
+                "source": "https://archive.ph/LiO0x"
+            },
+            {
+                "person": {
+                    "id": 3472,
+                    "name": "Mamta Barmola"
+                },
+                "role": "Associate (Administration)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3501,
+                    "name": "Joseph Atick"
+                },
+                "role": "Member (International Advisory Group)",
+                "on_behalf_of": {
+                    "id": 7372,
+                    "name": "ID4Africa"
+                },
+                "source": "https://archive.ph/LiO0x#60%"
+            },
+            {
+                "person": {
+                    "id": 76,
+                    "name": "Santhanagopalan Rajagopalan"
+                },
+                "role": "President",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3460,
+                    "name": "Mayura Deshmukh"
+                },
+                "role": "Technical Architect",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3452,
+                    "name": "Resham Chugani"
+                },
+                "role": "Product Manager (Use Cases)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 4761,
+                    "name": "Abdul Rauf"
+                },
+                "role": "Lead (SI Ecosystem)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3469,
+                    "name": "Nirupama Ganesh"
+                },
+                "role": "Associate (Content and Communications)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3503,
+                    "name": "Edward Duffus"
+                },
+                "role": "Member (International Advisory Group)",
+                "on_behalf_of": {
+                    "id": 7438,
+                    "name": "Plan Limited"
+                },
+                "source": "https://archive.ph/LiO0x#60%"
+            },
+            {
+                "person": {
+                    "id": 3477,
+                    "name": "Anusha Sunkada"
+                },
+                "role": "Technical Architect",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3478,
+                    "name": "Vibha Menon"
+                },
+                "role": "Product Owner",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3456,
+                    "name": "Rahel Abraham"
+                },
+                "role": "Head (East and Southern Africa Operations)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3443,
+                    "name": "Sanjith Sundaram"
+                },
+                "role": "Head (Partner Ecosystem)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3465,
+                    "name": "Mahammed Taheer"
+                },
+                "role": "Architect (Cryptography)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3506,
+                    "name": "Sudarshan Sen"
+                },
+                "role": "Member (International Advisory Group)",
+                "on_behalf_of": {
+                    "id": 7377,
+                    "name": "Reserve Bank of India"
+                },
+                "source": "https://archive.ph/LiO0x#60%"
+            },
+            {
+                "person": {
+                    "id": 3479,
+                    "name": "Ragini Krishnamurthy"
+                },
+                "role": "Manager (Quality Assurance)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3507,
+                    "name": "Vyjayanti Desai"
+                },
+                "role": "Member (International Advisory Group)",
+                "on_behalf_of": {
+                    "id": 1276,
+                    "name": "World Bank Group"
+                },
+                "source": "https://archive.ph/LiO0x#60%"
+            },
+            {
+                "person": {
+                    "id": 1234,
+                    "name": "Kim Hamilton Duffy"
+                },
+                "role": "Member (Technology Committee)",
+                "on_behalf_of": {
+                    "id": 1432,
+                    "name": "Decentralized Identity Foundation"
+                },
+                "source": "https://archive.ph/LiO0x#37.5%"
+            },
+            {
+                "person": {
+                    "id": 3453,
+                    "name": "Vishwanath V"
+                },
+                "role": "Principal Architect",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/HhKgs"
+            },
+            {
+                "person": {
+                    "id": 3482,
+                    "name": "Debabrata Das"
+                },
+                "role": "Chair (Executive Committee)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/LiO0x"
+            },
+            {
+                "person": {
+                    "id": 3432,
+                    "name": "Sowmya Sadagopan"
+                },
+                "role": "Chairperson Emeritus (Executive Committee)",
+                "on_behalf_of": null,
+                "source": "https://archive.ph/LiO0x"
+            }
+        ],
+        "dlt_instances": [],
+        "entities": [
+            {
+                "entity": {
+                    "id": 1432,
+                    "name": "Decentralized Identity Foundation",
+                    "website": "https://identity.foundation/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 1432,
+                    "name": "Decentralized Identity Foundation",
+                    "website": "https://identity.foundation/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 232,
+                    "name": "North American Aerospace Defense Command ",
+                    "website": "https://www.norad.mil",
+                    "type": [
+                        "Public"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 106,
+                    "name": "International Institute of Information Technology Bangalore",
+                    "website": "https://www.iiitb.ac.in/",
+                    "type": [
+                        "Public",
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 80,
+                        "name": "India",
+                        "code": "IN"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 472,
+                    "name": "Bill & Melinda Gates Foundation",
+                    "website": "https://www.gatesfoundation.org",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 832,
+                    "name": "United Nations High Commissioner for Refugees",
+                    "website": "https://www.unhcr.org",
+                    "type": [
+                        "Public"
+                    ],
+                    "country": {
+                        "id": 178,
+                        "name": "Switzerland",
+                        "code": "CH"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": "https://archive.ph/LiO0x#60%"
+            },
+            {
+                "entity": {
+                    "id": 108,
+                    "name": "Sir Ratan Tata Trust",
+                    "website": "https://www.tatatrusts.org/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 80,
+                        "name": "India",
+                        "code": "IN"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7437,
+                    "name": "Republic of Trinidad and Tobago",
+                    "website": "https://www.opm.gov.tt/",
+                    "type": [
+                        "Public"
+                    ],
+                    "country": {
+                        "id": 188,
+                        "name": "Trinidad and Tobago",
+                        "code": "TT"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": "https://archive.ph/34Pf2"
+            },
+            {
+                "entity": {
+                    "id": 7369,
+                    "name": "Institute of Peruvian Studies",
+                    "website": "https://iep.org.pe/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 142,
+                        "name": "Peru",
+                        "code": "PE"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7375,
+                    "name": "Smart Africa",
+                    "website": "https://smartafrica.org/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 150,
+                        "name": "Rwanda",
+                        "code": "RW"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7377,
+                    "name": "Reserve Bank of India",
+                    "website": "https://www.rbi.org.in/",
+                    "type": [
+                        "Public"
+                    ],
+                    "country": {
+                        "id": 80,
+                        "name": "India",
+                        "code": "IN"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7375,
+                    "name": "Smart Africa",
+                    "website": "https://smartafrica.org/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 150,
+                        "name": "Rwanda",
+                        "code": "RW"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7438,
+                    "name": "Plan Limited",
+                    "website": "https://plan-international.org/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 196,
+                        "name": "United Kingdom",
+                        "code": "GB"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7372,
+                    "name": "ID4Africa",
+                    "website": "https://id4africa.com/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 110,
+                    "name": "Omidyar Network Services LLC",
+                    "website": "https://omidyar.com/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7376,
+                    "name": "Carnegie Mellon University",
+                    "website": "https://www.cmu.edu/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 1276,
+                    "name": "World Bank Group",
+                    "website": "https://www.worldbank.org/",
+                    "type": [
+                        "Public"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7366,
+                    "name": "Indian Software Product Industry Round Table",
+                    "website": "https://ispirt.in/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 80,
+                        "name": "India",
+                        "code": "IN"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7373,
+                    "name": "Blockchain Trust Accelerator",
+                    "website": "https://www.newamerica.org/digital-impact-governance-initiative/blockchain-trust-accelerator/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7370,
+                    "name": "Web Science Trust",
+                    "website": "https://webscience.org/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 196,
+                        "name": "United Kingdom",
+                        "code": "GB"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 106,
+                    "name": "International Institute of Information Technology Bangalore",
+                    "website": "https://www.iiitb.ac.in/",
+                    "type": [
+                        "Public",
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 80,
+                        "name": "India",
+                        "code": "IN"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7402,
+                    "name": "Newlogic Pte Ltd",
+                    "website": "https://newlogic.com/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 163,
+                        "name": "Singapore",
+                        "code": "SG"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": "https://archive.ph/kurPS"
+            },
+            {
+                "entity": {
+                    "id": 108,
+                    "name": "Sir Ratan Tata Trust",
+                    "website": "https://www.tatatrusts.org/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 80,
+                        "name": "India",
+                        "code": "IN"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7366,
+                    "name": "Indian Software Product Industry Round Table",
+                    "website": "https://ispirt.in/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 80,
+                        "name": "India",
+                        "code": "IN"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7373,
+                    "name": "Blockchain Trust Accelerator",
+                    "website": "https://www.newamerica.org/digital-impact-governance-initiative/blockchain-trust-accelerator/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7130,
+                    "name": "Identity2020 Systems, Inc.",
+                    "website": "https://www.id2020.org/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 5652,
+                    "name": "Bundesagentur f\u00fcr Sprunginnovationen GmbH",
+                    "website": "http://www.sprind.org/",
+                    "type": [
+                        "Public"
+                    ],
+                    "country": {
+                        "id": 65,
+                        "name": "Germany",
+                        "code": "DE"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7434,
+                    "name": "Famoco SAS",
+                    "website": "https://www.famoco.com/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 62,
+                        "name": "France",
+                        "code": "FR"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": "https://archive.ph/kurPS"
+            },
+            {
+                "entity": {
+                    "id": 108,
+                    "name": "Sir Ratan Tata Trust",
+                    "website": "https://www.tatatrusts.org/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 80,
+                        "name": "India",
+                        "code": "IN"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7371,
+                    "name": "Centre for Global Development",
+                    "website": "https://www.cgdev.org/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7370,
+                    "name": "Web Science Trust",
+                    "website": "https://webscience.org/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 196,
+                        "name": "United Kingdom",
+                        "code": "GB"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7371,
+                    "name": "Centre for Global Development",
+                    "website": "https://www.cgdev.org/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 472,
+                    "name": "Bill & Melinda Gates Foundation",
+                    "website": "https://www.gatesfoundation.org",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7368,
+                    "name": "WSO2 LLC",
+                    "website": "https://wso2.com/",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 472,
+                    "name": "Bill & Melinda Gates Foundation",
+                    "website": "https://www.gatesfoundation.org",
+                    "type": [
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 197,
+                        "name": "United States of America",
+                        "code": "US"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 7377,
+                    "name": "Reserve Bank of India",
+                    "website": "https://www.rbi.org.in/",
+                    "type": [
+                        "Public"
+                    ],
+                    "country": {
+                        "id": 80,
+                        "name": "India",
+                        "code": "IN"
+                    }
+                },
+                "relationship_type": "Affiliation",
+                "source": null
+            },
+            {
+                "entity": {
+                    "id": 106,
+                    "name": "International Institute of Information Technology Bangalore",
+                    "website": "https://www.iiitb.ac.in/",
+                    "type": [
+                        "Public",
+                        "Private"
+                    ],
+                    "country": {
+                        "id": 80,
+                        "name": "India",
+                        "code": "IN"
+                    }
+                },
+                "relationship_type": "Managing",
+                "source": "https://archive.ph/0FVWM#selection-827.0-845.266"
+            }
+        ],
+        "consortia_relations": {
+            "as_source": [],
+            "as_target": [
+                {
+                    "id": 32,
+                    "title": "MOSIP - Modular Open Source Identity Platform",
+                    "website": "https://mosip.io/putting_id",
+                    "type": "Interoperability",
+                    "source": "https://archive.md/XgO14"
+                }
+            ]
+        },
+        "industries": [],
+        "standards": [
+            {
+                "id": 12,
+                "title": "W3C Verifiable Credentials Data Model",
+                "url": "https://www.w3.org/TR/vc-data-model/",
+                "type": "Follows",
+                "source": "https://archive.is/Z4t92#selection-2817.2-2817.228"
+            },
+            {
+                "id": 98,
+                "title": "OpenID for Verifiable Credential Issuance - OID4VCI",
+                "url": "https://openid.github.io/OpenID4VCI/openid-4-verifiable-credential-issuance-wg-draft.html",
+                "type": "Follows",
+                "source": "https://archive.is/Z4t92#selection-2815.0-2817.228"
+            },
+            {
+                "id": 99,
+                "title": "OpenID for Verifiable Presentations - OID4VP",
+                "url": "https://openid.github.io/OpenID4VP/openid-4-verifiable-presentations-wg-draft.html",
+                "type": "Follows",
+                "source": "https://archive.is/ZkODO#selection-2575.2-2575.57"
+            }
+        ],
+        "did_methods": [],
+        "credential_profiles": [],
+        "ai_description": null,
+        "inclusion_criteria": null,
+        "stats": {
+            "total_links": 114,
+            "score": 591.5675675675676
+        }
     }
-]
+}

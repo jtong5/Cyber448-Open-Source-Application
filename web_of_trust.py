@@ -113,3 +113,53 @@ def get_wot_project():
 # Optional: quick manual test
 if __name__ == "__main__":
     get_wot_project()
+
+def get_wot_for_query(search_term):
+
+    headers = {"X-API-Key": API_KEY}
+
+    search_url = f"{BASE_URL}/search"
+    search_params = {"query": search_term}
+
+    try:
+        search_resp = requests.get(search_url, headers=headers, params=search_params, timeout=REQUEST_TIMEOUT)
+        search_resp.raise_for_status()
+        search_data = search_resp.json()
+    except requests.exceptions.RequestException as e:
+        return {"error": f"Search request failed: {e}"}
+    except ValueError as e:
+        return {"error": f"Failed to decode search JSON: {e}"}
+
+    if isinstance(search_data, dict):
+        results = search_data.get("data") or search_data.get("results") or []
+    elif isinstance(search_data, list):
+        results = search_data
+    else:
+        results = []
+
+    if not results:
+        return {"error": "No projects found for that search term."}
+
+    project_result = results[0]
+    raw_id = project_result.get("id", "")
+
+    if raw_id.startswith("project-"):
+        project_id = raw_id.replace("project-", "")
+    else:
+        project_id = raw_id
+
+    project_url = f"{BASE_URL}/projects/{project_id}"
+    try:
+        project_resp = requests.get(project_url, headers=headers, timeout=REQUEST_TIMEOUT)
+        project_resp.raise_for_status()
+        project = project_resp.json()
+    except Exception as e:
+        return {"error": f"Project details request failed: {e}"}
+
+    result_to_return = {
+        "search_term": search_term,
+        "chosen_project_id": project_id,
+        "project": project,
+    }
+
+    return result_to_return
