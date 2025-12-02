@@ -158,7 +158,7 @@ def webOfTrust_window():
     new_window.config(background="#4A4459")
     #Text in the Window
     tk.Label(new_window,
-             text="URL or IP address", 
+             text="Check companies: ", 
              font=('Courier New',12), 
              fg="white", 
              bg="#4A4459", 
@@ -171,7 +171,7 @@ def webOfTrust_window():
     from web_of_trust import get_wot_project
     def on_submit():
         import json
-        url_value = entry.get()        
+        url_value = entry.get().strip()
         result = get_wot_project(url_value)
         output_box.delete("1.0", tk.END)
         output_box.insert("1.0", json.dumps(result, indent=4))
@@ -186,7 +186,7 @@ def webOfTrust_window():
                            activeforeground='white',
                            width=20)
     submit_button.pack()
-    #Output box
+#Output box~
     output_box = tk.Text(new_window, height=20, width=70, font=('Courier New', 10))
     output_box.pack(pady=20)
     #Back Button
